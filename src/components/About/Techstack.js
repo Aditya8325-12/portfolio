@@ -9,11 +9,7 @@ import {
   DiGit,
   DiJava,
 } from "react-icons/di";
-import {
-
-  SiFirebase,
-} from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
+import { SiFirebase } from "react-icons/si";
 
 function Techstack() {
   return (
