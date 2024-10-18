@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import emotion from "../../Assets/Projects/emotion.png";
 import locom from "../../Assets/Projects/locom.webp";
 import rddhoot from "../../Assets/Projects/rddhoot.png";
 import nadiniimex from "../../Assets/Projects/nadiniimex.png";
